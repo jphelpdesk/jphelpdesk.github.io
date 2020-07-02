@@ -1,2 +1,2 @@
 # jphelpdesk.github.io
- Site divilgação de Serviços Prestados !
+ Site divulgação de Serviços Prestados !
